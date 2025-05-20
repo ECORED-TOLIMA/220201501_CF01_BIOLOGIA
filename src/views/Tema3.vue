@@ -5,7 +5,19 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Titulo_de_primer_nivel
+      h1 Referente ecosistémico
+    
+    separador
+    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 3.1 Clasificación de los factores abióticos del medio ambiente físico
+
+    separador
+    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 3.2 Factores bióticos
+
+    separador
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 3.3 Ciclos biogeoquímicos
 
 </template>
 

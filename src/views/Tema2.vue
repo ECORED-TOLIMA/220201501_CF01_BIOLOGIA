@@ -5,7 +5,19 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Titulo_de_primer_nivel
+      h1 Referente organísmico
+
+    separador
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 2.1 Funciones vitales
+
+    separador
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 2.2 Funciones de relación
+
+    separador
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 2.3 La reproducción
 
 
 </template>

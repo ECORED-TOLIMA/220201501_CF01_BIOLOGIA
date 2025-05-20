@@ -9,11 +9,14 @@
           i.fas.fa-info
       h1 Introducción
     
-    .row.justify-content-center.align-items-center           
+    p(data-aos="fade-down") En este espacio realizará un recorrido para entender la vida, los organismos, sus funciones e interacciones con el entorno. 
+    p.mb-5(data-aos="fade-down") Partiendo de lo anterior, se invita a que acceda al siguiente video, el cual relaciona la temática a tratar durante este componente formativo:
+    
+    .row.justify-content-center.align-items-center(data-aos="flip-down")           
       .col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/2nhxITbyol4?si=3rf_MFWAqbe1T7MT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 
