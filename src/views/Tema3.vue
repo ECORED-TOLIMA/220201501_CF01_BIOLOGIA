@@ -59,7 +59,7 @@
 
     p.mb-5(data-aos="fade-down") Los anteriores factores inciden sobre los elementos del clima como:
 
-    .row.justify-content-center.mb-4(data-aos="flip-up")
+    .row.justify-content-center.mb-0(data-aos="flip-up")
       .col-xl-3.col-lg-8.mb-4.mb-xl-5
         .crd01.crd--grayGrad(data-aos="flip-left")
           .bottomCircle01.mb-5
@@ -237,7 +237,7 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.3 Ciclos biogeoquímicos
 
-    .bloque-texto-g.bloque-texto-g--inverso.C01.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-up")
+    .bloque-texto-g.bloque-texto-g--inverso.C01.p-3.p-sm-4.p-md-5.mb-0(data-aos="flip-up")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img16.jpg')})`}"
       )

@@ -106,22 +106,27 @@
         .p-2
           h3.mb-0.ms-3 Desventajas
 
-    .row.justify-content-center.mb-0(data-aos="flip-up")
-      .col-lg-10.mb-3
-        .tarjeta-avatar-b
-          .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema4/img07.svg' alt='AvatarTop').img150
-          .tarjeta.tarjeta--C01(style= "width: 100%")
-            .px-4.py-5
-              p.mb-0 Podría ser usada como armas biológicas de destrucción masiva. 
 
-      .col-lg-10.mb-3
-        .tarjeta-avatar-b
-          .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema4/img08.svg' alt='AvatarTop').img150
-          .tarjeta.tarjeta--C01(style= "width: 100%")
-            .px-4.py-5
-              p.mb-0 A pesar de que la biotecnología actúa favorablemente, no se conoce a ciencia cierta si con el transcurrir del tiempo el introducir microorganismos diferentes al medio, puedan tener consecuencias posteriores negativas, provocar daños colaterales como afectar la evolución de las especies y sus relaciones con el medio o que daños puede producir al medio ambiente los cultivos modificados o la afectación que puede tener en el ser humano cualquier modificación genética.
+    .row.justify-content-center.align-items-center
+      .col-lg-10.col-12.order-lg-2.order-2.mb-lg-0
+        .row.justify-content-center.mb-0(data-aos="flip-up")
+          .col-12.mb-3
+            .tarjeta-avatar-b.h-100
+              .tarjeta-avatar-b__img
+                img(src='@/assets/curso/temas/tema4/img07.svg' alt='AvatarTop').img150
+              .tarjeta.tarjeta--C01.py-4(style= "width: 100%")
+                .p-4
+                  p Podría ser usada como armas biológicas de destrucción masiva. 
+
+      .col-lg-10.col-12.order-lg-2.order-2.mb-lg-0
+        .row.justify-content-center.mb-0(data-aos="flip-up")
+          .col-12
+            .tarjeta-avatar-b.h-100
+              .tarjeta-avatar-b__img
+                img(src='@/assets/curso/temas/tema4/img08.svg' alt='AvatarTop').img150
+              .tarjeta.tarjeta--C01.py-4(style= "width: 100%")
+                .p-4
+                  p A pesar de que la biotecnología actúa favorablemente, no se conoce a ciencia cierta si con el transcurrir del tiempo el introducir microorganismos diferentes al medio, puedan tener consecuencias posteriores negativas, provocar daños colaterales como afectar la evolución de las especies y sus relaciones con el medio o que daños puede producir al medio ambiente los cultivos modificados o la afectación que puede tener en el ser humano cualquier modificación genética.
 
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
