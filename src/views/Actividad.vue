@@ -21,7 +21,7 @@ export default {
       tema: 'Conociendo el entorno vivo.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Determinar la comprensión de los conceptos fundamentales relacionados con el entorno vivo, teniendo en cuenta los procesos que tienen que ver con el ser.',
+        '<b> Objetivo:</b> determinar la comprensión de los conceptos fundamentales relacionados con el entorno vivo, teniendo en cuenta los procesos que tienen que ver con el ser.',
       barajarPreguntas: true,
       preguntas: [
         {

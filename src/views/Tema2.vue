@@ -49,8 +49,8 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema2/img02.svg', alt='Figura 1 que contiene la explicación del proceso de nutrición de los autótrofos y los heterótrofos; destacando que en los primeros predominan los productores como las plantas y en los segundos los consumidores como los animales.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema2/img03.svg', alt='Figura 1 que contiene la explicación del proceso de nutrición de los autótrofos y los heterótrofos; destacando que en los primeros predominan los productores como las plantas y en los segundos los consumidores como los animales.')
+        figure.movil
+          img(src='@/assets/curso/temas/tema2/img03.svg', alt='Figura 1 que contiene la explicación del proceso de nutrición de los autótrofos y los heterótrofos; destacando que en los primeros predominan los productores como las plantas y en los segundos los consumidores como los animales.')
 
     p.mb-5(data-aos="fade-down") De acuerdo a la clasificación anterior, a continuación, se explica un poco sobre los productores:
 
@@ -121,8 +121,8 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema2/img08.svg', alt='Figura 2 que explica el respectivo procedimiento que se da al momento de tener una respiración anaerobia; destacando que todo se da mediante una fermentación que contiene etanol y lactante, así como la glucólisis que presenta glucosa y piruvato.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema2/img09.svg', alt='Figura 2 que explica el respectivo procedimiento que se da al momento de tener una respiración anaerobia; destacando que todo se da mediante una fermentación que contiene etanol y lactante, así como la glucólisis que presenta glucosa y piruvato.')
+        figure.movil
+          img(src='@/assets/curso/temas/tema2/img09.svg', alt='Figura 2 que explica el respectivo procedimiento que se da al momento de tener una respiración anaerobia; destacando que todo se da mediante una fermentación que contiene etanol y lactante, así como la glucólisis que presenta glucosa y piruvato.')
 
     p.mb-5(data-aos="fade-down") La molécula de glucosa en modo anaerobia sobrevive en ausencia de Oxígeno, pasa por un proceso de fermentación; es decir, que produce alcohol, dióxido de carbono y energía.
 
@@ -135,8 +135,8 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema2/img10.svg', alt='Figura 3 que representa el proceso de respiración aerobia, el cual parte de una célula, luego pasar por la respiración celular y finalmente, interviene el ciclo de Krebs.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema2/img11.svg', alt='Figura 3 que representa el proceso de respiración aerobia, el cual parte de una célula, luego pasar por la respiración celular y finalmente, interviene el ciclo de Krebs.')
+        figure.movil
+          img(src='@/assets/curso/temas/tema2/img11.svg', alt='Figura 3 que representa el proceso de respiración aerobia, el cual parte de una célula, luego pasar por la respiración celular y finalmente, interviene el ciclo de Krebs.')
 
     p(data-aos="fade-down") En modo aeróbico, en las mitocondrias se libera de la glucosa, energía con ayuda del oxígeno dando como resultado 38 ATP, dióxido de carbono y agua. 
     p.mb-5(data-aos="fade-down") A continuación, se presenta la respiración a escala de los seres vivos, podrá conocer su tipo de respiración y la forma en la que la realiza: 
@@ -343,8 +343,8 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema2/img21.svg', alt='Figura 4 que contiene tres imágenes que representan el sistema musculoesquelético en el hombre y en la mujer.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema2/img22.svg', alt='Figura 4 que contiene tres imágenes que representan el sistema musculoesquelético en el hombre y en la mujer.')
+        figure.movil
+          img(src='@/assets/curso/temas/tema2/img22.svg', alt='Figura 4 que contiene tres imágenes que representan el sistema musculoesquelético en el hombre y en la mujer.')
 
     p.mb-5(data-aos="fade-down") Partiendo de lo anterior, se da una indicación de los tipos de huesos y su ubicación en el sistema esquelético: 
 
@@ -382,8 +382,8 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema2/img25.svg', alt='Figura 5 que representa por medio de tres imágenes que están en diferentes ángulos, la composición del tejido muscular, destacando que existe un tejido liso y un tejido cardíaco.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema2/img26.svg', alt='Figura 5 que representa por medio de tres imágenes que están en diferentes ángulos, la composición del tejido muscular, destacando que existe un tejido liso y un tejido cardíaco.')
+        figure.movil
+          img(src='@/assets/curso/temas/tema2/img26.svg', alt='Figura 5 que representa por medio de tres imágenes que están en diferentes ángulos, la composición del tejido muscular, destacando que existe un tejido liso y un tejido cardíaco.')
 
     p.mb-5(data-aos="fade-down") Existen tres clases de tejido muscular: 
 
@@ -441,8 +441,8 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema2/img31.svg', alt='Figura 6 que muestra un proceso cuando los sentidos entran en estímulos. Como por ejemplo, una pluma rosando la mano o una puntilla clavada en un dedo.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema2/img32.svg', alt='Figura 6 que muestra un proceso cuando los sentidos entran en estímulos. Como por ejemplo, una pluma rosando la mano o una puntilla clavada en un dedo.')
+        figure.movil
+          img(src='@/assets/curso/temas/tema2/img32.svg', alt='Figura 6 que muestra un proceso cuando los sentidos entran en estímulos. Como por ejemplo, una pluma rosando la mano o una puntilla clavada en un dedo.')
 
     p.mb-5(data-aos="fade-down") Como se puede evidenciar, en la siguiente figura se aprecian autopistas sensoriales y nerviosas motoras desde un estímulo a la corteza sensorial: 
 
@@ -455,8 +455,8 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema2/img33.svg', alt='Figura 7 que contiene una simulación de autopistas sensoriales y nerviosas motoras, en el sistema nervioso central y el sistema nervioso periférico.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema2/img34.svg', alt='Figura 7 que contiene una simulación de autopistas sensoriales y nerviosas motoras, en el sistema nervioso central y el sistema nervioso periférico.')
+        figure.movil
+          img(src='@/assets/curso/temas/tema2/img34.svg', alt='Figura 7 que contiene una simulación de autopistas sensoriales y nerviosas motoras, en el sistema nervioso central y el sistema nervioso periférico.')
 
     .row.align-items-center.mb-4(data-aos="flip-up")
       .col-auto.pe-0(style="z-index:2")
@@ -478,8 +478,8 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema2/img35.svg', alt='Figura 8 que relaciona los órganos que están presentes dentro del sistema endocrino masculino.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema2/img36.svg', alt='Figura 8 que relaciona los órganos que están presentes dentro del sistema endocrino masculino.')
+        figure.movil
+          img(src='@/assets/curso/temas/tema2/img36.svg', alt='Figura 8 que relaciona los órganos que están presentes dentro del sistema endocrino masculino.')
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
@@ -490,8 +490,8 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema2/img37.svg', alt='Figura 9 que relaciona los órganos que están presentes dentro del sistema endocrino femenino.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema2/img38.svg', alt='Figura 9 que relaciona los órganos que están presentes dentro del sistema endocrino femenino.')
+        figure.movil
+          img(src='@/assets/curso/temas/tema2/img38.svg', alt='Figura 9 que relaciona los órganos que están presentes dentro del sistema endocrino femenino.')
 
     p.mb-5(data-aos="fade-down") Como complemento de lo anterior, a continuación, se relaciona una tabla explicativa de las glándulas y sus respectivas funciones: 
 
@@ -553,15 +553,15 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema2/img39.svg', alt='Figura 10 que contiene un mapa conceptual que explica el proceso de reproducción sexual y asexual en los seres vivos.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema2/img40.svg', alt='Figura 10 que contiene un mapa conceptual que explica el proceso de reproducción sexual y asexual en los seres vivos.')
+        figure.movil
+          img(src='@/assets/curso/temas/tema2/img40.svg', alt='Figura 10 que contiene un mapa conceptual que explica el proceso de reproducción sexual y asexual en los seres vivos.')
 
     p.mb-5(data-aos="fade-down") Partiendo de la figura anterior, a continuación, se relacionan los actores presentes en el proceso asexual:
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="flip-up")
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center.mb-5
-          .col-lg-8.col-12.mb-5.mb-md-0.order-lg-1.order-2.mb-lg-0
+          .col-lg-7.col-12.mb-5.mb-md-0.order-lg-1.order-2.mb-lg-0
             LineaTiempoD.color-acento-botones.especial
               .row(numero="1" titulo="Bipartición")
                 .col-12.mb-4.mb-md-0
@@ -590,7 +590,7 @@
               .row(numero="7" titulo="Acodo")
                 .col-12.mb-4.mb-md-0
                   p.mb-0 Se dobla una rama se introduce en el suelo.
-          .col-lg-4.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4
+          .col-lg-5.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema2/img41.png', alt='Imagen decorativa')
 
@@ -606,46 +606,46 @@
 
     AcordionA.mb-0(tipo="a" clase-tarjeta="tarjeta tarjeta--C03")(data-aos="flip-up")
       .row(titulo="Poríferos")
-        .col-md-5.mb-4.mb-md-0.px-5
+        .col-lg-5.mb-4.mb-lg-0.px-5
           p <b>Tipo de reproducción:</b> gemación.
           p <b>Tipo de fecundación:</b> no aplica.
           p <b>Organismos:</b> corales.
           p <b>Otras características:</b> forman colonias.
 
-        .col-md-7
+        .col-lg-7
           figure
             img(src='@/assets/curso/temas/tema2/img42.jpg', alt='Imagen decorativa')
 
       .row(titulo="Anélidos")
-        .col-md-5.mb-4.mb-md-0.px-5
+        .col-lg-5.mb-4.mb-lg-0.px-5
           p <b>Tipo de reproducción:</b> sexual – hermafroditismo.
           p <b>Tipo de fecundación:</b> interna.
           p <b>Organismos:</b> lombriz de tierra.
           p <b>Otras características:</b> también se reproducen asexualmente.
 
-        .col-md-7
+        .col-lg-7
           figure
             img(src='@/assets/curso/temas/tema2/img43.jpg', alt='Imagen decorativa')
 
       .row(titulo="Platelmintos")
-        .col-md-5.mb-4.mb-md-0.px-5
+        .col-lg-5.mb-4.mb-lg-0.px-5
           p <b>Tipo de reproducción:</b> sexual – hermafroditismo.
           p <b>Tipo de fecundación:</b> interna.
           p <b>Organismos:</b> planarias.
           p <b>Otras características:</b> también se reproducen asexualmente.
 
-        .col-md-7
+        .col-lg-7
           figure
             img(src='@/assets/curso/temas/tema2/img44.jpg', alt='Imagen decorativa')
 
       .row(titulo="Moluscos")
-        .col-md-5.mb-4.mb-md-0.px-5
+        .col-lg-5.mb-4.mb-lg-0.px-5
           p <b>Tipo de reproducción:</b> sexual – hermafroditismo.
           p <b>Tipo de fecundación:</b> interna.
           p <b>Organismos:</b> caracol.
           p <b>Otras características:</b> también se reproducen asexualmente.
 
-        .col-md-7
+        .col-lg-7
           figure
             img(src='@/assets/curso/temas/tema2/img45.jpg', alt='Imagen decorativa')
 

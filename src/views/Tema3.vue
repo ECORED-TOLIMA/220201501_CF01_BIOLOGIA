@@ -119,8 +119,8 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema3/img11.svg', alt='Figura 11 que relaciona lo que significa una comunidad bilógica, la cual posee diferentes animales y un bosque.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema3/img12.svg', alt='Figura 11 que relaciona lo que significa una comunidad bilógica, la cual posee diferentes animales y un bosque.')
+        figure.movil
+          img(src='@/assets/curso/temas/tema3/img12.svg', alt='Figura 11 que relaciona lo que significa una comunidad bilógica, la cual posee diferentes animales y un bosque.')
 
     .row.align-items-center.mb-4(data-aos="flip-up")
       .col-auto.pe-0(style="z-index:2")
@@ -169,9 +169,9 @@
       .row.justify-content-center
         .col-10
           figure.desktop
-            img(src='@/assets/curso/temas/tema3/img14.svg', alt='Figura 11 que relaciona lo que significa una comunidad bilógica, la cual posee diferentes animales y un bosque.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema3/img15.svg', alt='Figura 11 que relaciona lo que significa una comunidad bilógica, la cual posee diferentes animales y un bosque.')
+            img(src='@/assets/curso/temas/tema3/img14.svg', alt='Figura 13 que hace relación a la energía que le dan algunos animales a otros en su cadena alimenticia; por ejemplo, la serpiente al águila.')
+        figure.movil
+          img(src='@/assets/curso/temas/tema3/img15.svg', alt='Figura 13 que hace relación a la energía que le dan algunos animales a otros en su cadena alimenticia; por ejemplo, la serpiente al águila.')
 
     .row.align-items-center.mb-4(data-aos="flip-up")
       .col-auto.pe-0(style="z-index:2")

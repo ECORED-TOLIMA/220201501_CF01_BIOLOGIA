@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="En la síntesis del componente formativo Entorno vivo, se parte del análisis del referente celular, el cual explica por medio de teoría y práctica lo relacionado con los procesos celulares; luego se aborda el referente organísmico como una unidad completa; seguidamente se apropia el referente ecosistémico con los factores y componente vivos y no vivos; finalmente, se trata la biotecnología por medio de una serie de ventajas y desventajas, así como su proceso de aplicación.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

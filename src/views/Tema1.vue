@@ -33,7 +33,7 @@
                     .p-4
                       h4 Unidad morfológica
                       p Todo ser vivo está constituido por células. 
-          .col-lg-6.col-12.order-lg-1.order-2.mb-lg-0.p-4
+          .col-lg-6.col-12.order-lg-1.order-1.mb-lg-0.p-4
             p(data-aos="fade-down") Esta teoría es un pilar fundamental de la biología, fue formulada en 1838 por los científicos Schielden y Schwann y ha sido ampliada con los avances en biología molecular y genética.
             p(data-aos="fade-down") Al respecto es importante conocer lo siguiente:
 
@@ -74,7 +74,7 @@
         figure.mb-4
           img(src='@/assets/curso/temas/tema1/img06.jpg', alt='Imagen decorativa')
         h4 Isodiamétrica
-        p células vegetales amorfas (Sin forma). Ejemplo: amebas.
+        p células vegetales amorfas (sin forma). Ejemplo: amebas.
 
     .row.align-items-center.mb-4(data-aos="flip-up")
       .col-auto.pe-0(style="z-index:2")
@@ -96,7 +96,7 @@
               .crd_hover_txt--body
                 h5.t1.mb-3 Macroscópicas
                 h5.t2.mb-2 Macroscópicas
-                p.mb-0 aquellas que se aprecian a simple vista. Ejemplo: el huevo.
+                p.mb-0 Aquellas que se aprecian a simple vista. Ejemplo: el huevo.
 
           .col-xl-6.col-lg-6.col-md-6.col-12.mb-xl-0
             .crd_hover_txt.mb-4(data-aos="flip-left")(@mouseover="mostrarIndicador = true")
@@ -107,7 +107,7 @@
               .crd_hover_txt--body
                 h5.t1.mb-3 Microscópicas
                 h5.t2.mb-2 Microscópicas
-                p.mb-0 aquellas que se observan con ayuda del microscopio, siendo la unidad de medida la micra.
+                p.mb-0 Aquellas que se observan con ayuda del microscopio, siendo la unidad de medida la micra.
 
     .row.align-items-center.mb-4(data-aos="flip-up")
       .col-auto.pe-0(style="z-index:2")
@@ -229,6 +229,8 @@
 
     .row.justify-content-center.mb-0(data-aos="flip-up")
       .col-auto.movil
+        figure.mb-4
+          img(src='@/assets/curso/temas/tema1/img16.svg', alt='Imagen decorativa')
         a.anexo.mb-5(:href="obtenerLink('/downloads/Anexo_Organelos_presentes_en_la_célula_vegetal_y_animal.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/bullets/icono-pdf.svg")
