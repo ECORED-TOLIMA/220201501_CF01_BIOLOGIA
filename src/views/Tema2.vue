@@ -304,7 +304,7 @@
                       p.mb-0 Vapor de agua.
 
               tr
-                td(style="background-color: #F6F6F6") CO2. 
+                td(style="background-color: #F6F6F6") CO<sub>2</sub>. 
                 td(style="background-color: #F6F6F6") Respiración celular. 
                 td(style="background-color: #F6F6F6") Conjunto de células del organismo.
                 td(style="background-color: #F6F6F6") Pulmones. 
