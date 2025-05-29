@@ -139,7 +139,7 @@
       h2 1.3 Organelos celulares
 
     p(data-aos="fade-down") Los organelos presentes en las células, difieren según sean estas procariotas, eucariotas, animales o vegetales.
-    p.mb-5(data-aos="fade-down") Para profundizar acerca de los organelos, acceda a cada uno de ellos para conocer su respectiva información:
+    p.mb-4(data-aos="fade-down") Para profundizar acerca de los organelos, acceda a cada uno de ellos para conocer su respectiva información:
 
     .row.justify-content-center(data-aos="flip-up")
       .col-lg-10.desktop
@@ -175,7 +175,7 @@
             p.text-center Órgano anexo, unido a la membrana celular, que permite su motilidad.             
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-md-8.col-10.movil
+      .col-md-8.col-12.movil
         figure
           img(src='@/assets/curso/temas/tema1/img12.svg', alt='Imagen decorativa')
 
@@ -241,7 +241,7 @@
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.4 Niveles de organización de los seres vivos
 
-    p.mb-5(data-aos="fade-down") El mundo vivo puede organizarse en diferentes niveles: 
+    p.mb-4(data-aos="fade-down") El mundo vivo puede organizarse en diferentes niveles: 
 
     .row.justify-content-center(data-aos="flip-up")
       .col-lg-10.desktop
@@ -265,7 +265,7 @@
             p.text-center Reunión de varios órganos que trabajan en equipo cumpliendo una función.
 
     .row.justify-content-center.mb-0(data-aos="flip-up")
-      .col-md-8.col-10.movil
+      .col-md-8.col-12.movil
         figure
           img(src='@/assets/curso/temas/tema1/img15.svg', alt='Imagen decorativa')
 

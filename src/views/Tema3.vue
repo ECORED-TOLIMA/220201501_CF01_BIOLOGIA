@@ -119,8 +119,8 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema3/img11.svg', alt='Figura 11 que relaciona lo que significa una comunidad bilógica, la cual posee diferentes animales y un bosque.')
-        figure.movil
-          img(src='@/assets/curso/temas/tema3/img12.svg', alt='Figura 11 que relaciona lo que significa una comunidad bilógica, la cual posee diferentes animales y un bosque.')
+      figure.movil
+        img(src='@/assets/curso/temas/tema3/img12.svg', alt='Figura 11 que relaciona lo que significa una comunidad bilógica, la cual posee diferentes animales y un bosque.')
 
     .row.align-items-center.mb-4(data-aos="flip-up")
       .col-auto.pe-0(style="z-index:2")
@@ -140,16 +140,16 @@
             p(data-aos="fade-down") El flujo de energía en los ecosistemas se evidencia en primer nivel, a través de las cadenas alimenticias que parten de la luz del sol, permitiendo a las plantas realizar el proceso de fotosíntesis, por eso se denominan autótrofas. El segundo nivel corresponde a los herbívoros o consumidores de primer orden que como su nombre lo indica, se alimentan de plantas, a su vez los carnívoros se alimentan de animales diferentes a los de su especie, constituyendo el tercer nivel.
             .cajon.cajon.C02.color-primario.p-4
               p.mb-0 Adicionalmente, en algunos ecosistemas, se pueden encontrar los omnívoros que se alimentan de plantas y animales; y por último, pero no menos importante, están los saprofitos que se alimentan de materia orgánica en descomposición devolviendo y cerrando el ciclo y la transferencia de los nutrientes y energía.
-          .col-lg-6.col-md-7.col-8.mb-3.order-lg-2.order-1.mb-lg-0
-            .row.justify-content-center.mb-5(data-aos="flip-up")
+          .col-lg-6.col-md-7.col-12.mb-3.order-lg-2.order-1.mb-lg-0
+            .row.justify-content-center(data-aos="flip-up")
               .col
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 12.
                   span <i>Ecosistema.</i>
-              .row.justify-content-center
-                .col
-                  figure
-                    img(src='@/assets/curso/temas/tema3/img13.svg', alt='Figura 12 que relaciona un ejemplo de un ecosistema, el cual representa uno acuático, con animales y plantas.')
+            .row.justify-content-center
+              .col
+                figure
+                  img(src='@/assets/curso/temas/tema3/img13.svg', alt='Figura 12 que relaciona un ejemplo de un ecosistema, el cual representa uno acuático, con animales y plantas.')
 
     .row.align-items-center.mb-4(data-aos="flip-up")
       .col-auto.pe-0(style="z-index:2")
@@ -170,8 +170,8 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema3/img14.svg', alt='Figura 13 que hace relación a la energía que le dan algunos animales a otros en su cadena alimenticia; por ejemplo, la serpiente al águila.')
-        figure.movil
-          img(src='@/assets/curso/temas/tema3/img15.svg', alt='Figura 13 que hace relación a la energía que le dan algunos animales a otros en su cadena alimenticia; por ejemplo, la serpiente al águila.')
+      figure.movil
+        img(src='@/assets/curso/temas/tema3/img15.svg', alt='Figura 13 que hace relación a la energía que le dan algunos animales a otros en su cadena alimenticia; por ejemplo, la serpiente al águila.')
 
     .row.align-items-center.mb-4(data-aos="flip-up")
       .col-auto.pe-0(style="z-index:2")
