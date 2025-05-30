@@ -74,7 +74,7 @@
         figure.mb-4
           img(src='@/assets/curso/temas/tema1/img06.jpg', alt='Imagen decorativa')
         h4 Isodiamétrica
-        p células vegetales amorfas (sin forma). Ejemplo: amebas.
+        p Células vegetales amorfas (sin forma). Ejemplo: amebas.
 
     .row.align-items-center.mb-4(data-aos="flip-up")
       .col-auto.pe-0(style="z-index:2")
