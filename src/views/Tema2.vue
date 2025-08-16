@@ -91,13 +91,13 @@
                 p.mb-0 Son los que se alimentan de plantas. En la cadena trófica, son los consumidores primarios. Por ejemplo: la vaca y el oso panda, mientras que los que comen carne son consumidores secundarios. 
             .row(titulo="Carnívoro")
               .col-12.mb-0.mb-md-0
-                p.mb-0 Son los que se alimentan a base de carne ya sea por depredación o consumo de carroña. A pesar de que existen muchas especies de animales carnívoros, algunas subespecies no son consumidoras exclusivas de carne. Por ejemplo: el tigre y el león.
+                p.mb-0 Son los que se alimentan a base de carne, ya sea por depredación o consumo de carroña. A pesar de que existen muchas especies de animales carnívoros, algunas subespecies no son consumidoras exclusivas de carne. Por ejemplo: el tigre y el león.
             .row(titulo="Omnívoros")
               .col-12.mb-0.mb-md-0
                 p.mb-0 Son los animales que se alimentan tanto de animales, como de las plantas. Entre los mamíferos están: el cerdo, el oso polar, el erizo y el perro. En las aves están: los cuervos, la urraca, los trepadores, etc. De igual manera, el ser humano es un ser vivo omnívoro.
             .row(titulo="Saprofitas")
               .col-12.mb-0.mb-md-0
-                p.mb-0 Organismos que vive sobre materia orgánica en descomposición y se alimenta de ella. Por ejemplo: los hongos, setas, mohos y bacterias, que se encargan de la putrefacción.
+                p.mb-0 Organismos que viven sobre materia orgánica en descomposición y se alimentan de ella. Por ejemplo: los hongos, setas, mohos y bacterias, que se encargan de la putrefacción.
 
         .col-lg-4.col-6.col-md-6.col-8.order-lg-2.order-1.mb-lg-0.mb-3.d-none.d-lg-block
           figure
@@ -117,7 +117,7 @@
         .col-lg-10.col-12
           .titulo-sexto.color-acento-contenido
             h5 Figura 2.
-            span <i>Clasificación de los tipos de nutrición.</i>
+            span <i>Respiración anaerobia.</i>
         .row.justify-content-center
           .col-10
             figure.desktop
@@ -125,7 +125,7 @@
         figure.movil
           img(src='@/assets/curso/temas/tema2/img09.svg', alt='Figura 2 que explica el respectivo procedimiento que se da al momento de tener una respiración anaerobia; destacando que todo se da mediante una fermentación que contiene etanol y lactante, así como la glucólisis que presenta glucosa y piruvato.')
 
-      p.mb-5(data-aos="fade-down") La molécula de glucosa en modo anaerobia sobrevive en ausencia de Oxígeno, pasa por un proceso de fermentación; es decir, que produce alcohol, dióxido de carbono y energía.
+      p.mb-5(data-aos="fade-down") La molécula de glucosa en modo anaerobia sobrevive en ausencia de oxígeno, pasa por un proceso de fermentación; es decir, que produce alcohol, dióxido de carbono y energía.
 
       .row.justify-content-center.mb-5(data-aos="flip-up")
         .col-lg-10.col-12
@@ -175,7 +175,7 @@
             .col-lg-5.order-lg-1.order-2
               h4 Pez
               p <b>Tipo de respiración:</b> branquial.
-              p <b>Forma de realización de la respiración:</b> se presenta en animales acuáticos es decir que toman el oxígeno del agua de su medio, para este intercambio poseen branquias.
+              p <b>Forma de realización de la respiración:</b> se presenta en animales acuáticos, es decir, que toman el oxígeno del agua de su medio, para este intercambio poseen branquias.
             .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema2/img15.jpg', alt='Imagen decorativa')
@@ -500,7 +500,7 @@
         .col
           .titulo-sexto.color-acento-contenido
             h5 Tabla 2.
-            span <em>Órganos implicados en la excreción</em>          
+            span <em>Funciones de las glándulas</em>          
           .tabla-a.color-acento-contenido
             table
               thead

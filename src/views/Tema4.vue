@@ -29,7 +29,7 @@
       .col-lg-10.col-12
         .row.justify-content-center
           .col-lg-8.col-12.order-lg-2.order-2
-            p(data-aos="fade-down") Esta ciencia ha sido aplicada en algunos sectores como el económicos y ambiental, generando una serie de productos de mejor calidad y más amigables con el medio ambiente. Ha logrado diversos avances en la salud, como producir nuevos medicamentos o mejorar diagnóstico de enfermedades como el sida.
+            p(data-aos="fade-down") Esta ciencia ha sido aplicada en algunos sectores como el económico y ambiental, generando una serie de productos de mejor calidad y más amigables con el medio ambiente. Ha logrado diversos avances en la salud, como producir nuevos medicamentos o mejorar el diagnóstico de enfermedades como el sida.
             .cajon.cajon.C02.color-primario.px-4.py-3
               p.mb-0 Existen numerosos conceptos de la biotecnología, una de las primeras definiciones aceptadas internacionalmente para biotecnología es la publicada en 1982 por la Organización para la Cooperación y el Desarrollo Económico (OCDE), utilizada por Thieman (2009), donde se define como “la aplicación de los principios de la ciencia y la ingeniería al tratamiento de materias por agentes biológicos en la producción de bienes y servicios” (pág. 25).
           .col-lg-4.col-md-7.col-8.mb-3.order-lg-1.order-1.mb-lg-0
@@ -158,7 +158,7 @@
                 img.img200(src='@/assets/curso/temas/tema4/img10.svg', alt='Imagen decorativa')
             .col-lg-10.mb-4.mb-lg-0(data-aos="fade-down")
               h5 Biotecnología roja
-              p.mb-0 Asociada a la salud animal seres humanos y vegetal. Ejemplo: producción de antibióticos. 
+              p.mb-0 Asociada a la salud animal, seres humanos y vegetal. Ejemplo: producción de antibióticos. 
 
           .row(titulo="02")
             .col-lg-2.mb-3.mb-lg-0.col-4

@@ -1,7 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'Entorno vivo',
-    descripcionCurso:
+    Name: 'Entorno vivo',
+    Description:
       'El entorno vivo hace que el aprendiz reconozca los referentes que conciben un ser vivo como un sistema que permite su manifestación, desde lo morfológico, fisiológico, reproductivo e interactivo con el ambiente. A su vez establece relación con el entorno químico y físico como parte del mundo de la vida.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
@@ -159,7 +159,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_01_12350004_DU.pdf',
+        download: 'downloads/CFA_01_220201501_DU.pdf',
       },
       {
         icono: 'fas fa-download',

@@ -118,9 +118,9 @@
       .row.justify-content-center
         .col-10
           figure.desktop
-            img(src='@/assets/curso/temas/tema3/img11.svg', alt='Figura 11 que relaciona lo que significa una comunidad bilógica, la cual posee diferentes animales y un bosque.')
+            img(src='@/assets/curso/temas/tema3/img11.svg', alt='Figura 11 que relaciona lo que significa una comunidad biológica, la cual posee diferentes animales y un bosque.')
       figure.movil
-        img(src='@/assets/curso/temas/tema3/img12.svg', alt='Figura 11 que relaciona lo que significa una comunidad bilógica, la cual posee diferentes animales y un bosque.')
+        img(src='@/assets/curso/temas/tema3/img12.svg', alt='Figura 11 que relaciona lo que significa una comunidad biológica, la cual posee diferentes animales y un bosque.')
 
     .row.align-items-center.mb-4(data-aos="flip-up")
       .col-auto.pe-0(style="z-index:2")
@@ -149,7 +149,7 @@
             .row.justify-content-center
               .col
                 figure
-                  img(src='@/assets/curso/temas/tema3/img13.svg', alt='Figura 12 que relaciona un ejemplo de un ecosistema, el cual representa uno acuático, con animales y plantas.')
+                  img(src='@/assets/curso/temas/tema3/img13.svg', alt='Figura 12 que relaciona un ejemplo de un ecosistema, el cual representa un entorno acuático, con animales y plantas.')
 
     .row.align-items-center.mb-4(data-aos="flip-up")
       .col-auto.pe-0(style="z-index:2")

@@ -190,16 +190,16 @@
               img(src='@/assets/curso/temas/tema1/img13.svg', alt='Imagen decorativa')
           .tarjeta.tarjeta--blanca.p-3(x="62.2%" y="11.5%" numero="+")
             p.text-center Contiene el material genético que participa en la reproducción celular.
-             
+
           .tarjeta.tarjeta--blanca.p-3(x="62.2%" y="20.5%" numero="+")
             p.text-center Ayudan a la célula en la fabricación de proteínas, en ellos se originan los ribosomas. 
-             
+
           .tarjeta.tarjeta--blanca.p-3(x="67%" y="31.5%" numero="+")
             p.text-center Almacena y segrega proteínas sintetizadas en los ribosomas.
-                           
+
           .tarjeta.tarjeta--blanca.p-3(x="67%" y="40.8%" numero="+")
             p.text-center Produce y segrega grasas. 
-             
+
           .tarjeta.tarjeta--blanca.p-3(x="62.2%" y="51.7%" numero="+") 
             p.text-center Ayudan a la célula en la fabricación de proteínas.
 
@@ -216,10 +216,10 @@
             p.text-center En su interior se produce la fotosíntesis, por la cual la energía solar se transforma en energía útil para la célula. 
 
           .tarjeta.tarjeta--blanca.p-3(x="66.2%" y="91.8%" numero="+")
-            p.text-center Actúa como soporte Confiere protección y da forma a las células.
+            p.text-center Actúa como soporte. Confiere protección y da forma a las células.
 
           .tarjeta.tarjeta--blanca.p-3(x="60.9%" y="91.8%" numero="+")
-            p.text-center Protege la célula del medio. Transporta sustancias el interior o exterior de la célula. Controla el paso de sustancias entre el interior y el exterior de la célula y la aísla del medio.
+            p.text-center Protege la célula del medio. Transporta sustancias al interior o exterior de la célula. Controla el paso de sustancias entre el interior y el exterior de la célula y la aísla del medio.
 
           .tarjeta.tarjeta--blanca.p-3(x="28.5%" y="91.8%" numero="+")
             p.text-center Almacenan sustancia. Algunas tienen funciones digestivas, de transporte o de reserva.
@@ -251,18 +251,18 @@
               img(src='@/assets/curso/temas/tema1/img14.svg', alt='Imagen decorativa')
           .tarjeta.tarjeta--blanca.p-3(x="12%" y="65.5%" numero="01")
             p.text-center Se considera la mínima expresión de un ser vivo en cuanto forma y función.
-             
+
           .tarjeta.tarjeta--blanca.p-3(x="33.5%" y="39.8%" numero="02")
             p.text-center Es la reunión de células de la misma clase.
-             
+
           .tarjeta.tarjeta--blanca.p-3(x="60.5%" y="39.8%" numero="03")
             p.text-center Cuando se reúnen varios tejidos para cumplir una función en común. 
-                           
+
           .tarjeta.tarjeta--blanca.p-3(x="83.8%" y="65.8%" numero="04")
             p.text-center Reunión de varios órganos que trabajan en equipo cumpliendo una función.
-             
+
           .tarjeta.tarjeta--blanca.p-3(x="47.5%" y="80%" numero="05") 
-            p.text-center Reunión de varios órganos que trabajan en equipo cumpliendo una función.
+            p.text-center Individuo formado por diferentes sistemas capaz de reproducirse.
 
     .row.justify-content-center.mb-0(data-aos="flip-up")
       .col-md-8.col-12.movil
