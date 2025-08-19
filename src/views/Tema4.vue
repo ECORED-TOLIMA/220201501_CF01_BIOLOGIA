@@ -97,6 +97,7 @@
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/6F8leCVKHXc?si=jOPNaxNL062NyDmm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Fuente: Procolombia (2016)
 
     .row.align-items-center.mb-4(data-aos="flip-up")
       .col-auto.pe-0(style="z-index:2")
