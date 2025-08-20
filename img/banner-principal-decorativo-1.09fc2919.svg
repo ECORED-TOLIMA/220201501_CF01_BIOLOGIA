@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96.549" height="123.452" viewBox="0 0 96.549 123.452">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.399" cy="0.371" r="0.541" gradientTransform="translate(0.406 -0.144) rotate(53.23)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00e489"/>
+      <stop offset="0.412" stop-color="#01cb7f"/>
+      <stop offset="1" stop-color="#066454"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_1101773" data-name="Group 1101773" transform="translate(-893.926 -182.807)">
+    <rect id="Rectangle_401887" data-name="Rectangle 401887" width="1.923" height="50.009" rx="0.962" transform="matrix(0.906, -0.423, 0.423, 0.906, 948.734, 212.337)" fill="#01d382"/>
+    <rect id="Rectangle_401889" data-name="Rectangle 401889" width="1.923" height="62.512" rx="0.962" transform="matrix(-0.342, -0.94, 0.94, -0.342, 916.949, 286.717)" fill="#01d382"/>
+    <circle id="Ellipse_11502" data-name="Ellipse 11502" cx="20.196" cy="20.196" r="20.196" transform="matrix(0.966, 0.259, -0.259, 0.966, 904.38, 256.788)" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_11501" data-name="Ellipse 11501" cx="15.283" cy="15.283" r="15.283" transform="matrix(1, 0, 0, 1, 959.909, 250.058)" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_11500" data-name="Ellipse 11500" cx="16.349" cy="16.349" r="16.349" transform="translate(941.996 182.807) rotate(35)" fill="url(#radial-gradient)"/>
+  </g>
+</svg>
